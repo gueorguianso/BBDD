@@ -1,2 +1,2 @@
 # BBDD
-Informacion, procedimientos, triggers, etc.
+Consultas, procedimientos, triggers, etc.
